@@ -83,8 +83,8 @@
                   "galleryImageId":"/subscriptions/<subscriptionID>/resourceGroups/<rgName>/providers/Microsoft.Compute/galleries/<sharedImageGalName>/images/<imageDefName>",
                   "runOutputName":"<runOutputName>",
                   "artifactTags":{
-                     "source":"wvd10",
-                     "baseosimg":"windows10"
+                     "source":"azVmImageBuilder",
+                     "baseosimg":"windows2019"
                   },
                   "replicationRegions":[
                      "<region1>"
